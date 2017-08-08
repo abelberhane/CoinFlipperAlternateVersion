@@ -1,9 +1,8 @@
 # CoinFlipper3000
 WPF application that simulates a Coin being Flipped. 
 
-This is the beginning of a Fun Heads or Tails Coin Flipper. 
+One of my first applications that I created in C#. This was one of the simpler concepts as the label simply switched based off selecting a random option. 
 
 
-
-![alt text](https://raw.githubusercontent.com/abelberhane/CoinFlipper3000/master/CoinFlipper.png)
+![alt text](https://github.com/abelberhane/CoinFlipperAlternateVersion/blob/master/CoinFlipper.png?raw=true)
 
